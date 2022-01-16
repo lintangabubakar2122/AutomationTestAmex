@@ -1,0 +1,112 @@
+2021-12-30 14:21:46,719 INFO  [Log] Test called: Testing the authentication has started 
+2021-12-30 14:21:49,486 INFO  [Log] INFO: Navigating to https://lms.juaracoding.com/automationpractice/ 
+2021-12-30 14:21:52,656 INFO  [Log] Test called: Testing dashboard page has started 
+2022-01-11 13:03:18,197 INFO  [Log] Test called: Testing the authentication has started 
+2022-01-11 13:03:25,020 INFO  [Log] INFO: Navigating to https://lms.juaracoding.com/automationpractice/ 
+2022-01-11 13:03:28,923 INFO  [Log] Test called: Testing dashboard page has started 
+2022-01-11 13:16:11,222 INFO  [Log] Test called: Testing the authentication has started 
+2022-01-11 13:16:16,879 INFO  [Log] INFO: Navigating to https://lms.juaracoding.com/automationpractice/ 
+2022-01-11 13:16:21,389 INFO  [Log] Test called: Testing dashboard page has started 
+2022-01-11 13:17:50,717 INFO  [Log] Test called: Testing the authentication has started 
+2022-01-11 13:17:54,093 INFO  [Log] INFO: Navigating to https://lms.juaracoding.com/automationpractice/ 
+2022-01-11 13:18:00,898 INFO  [Log] Test called: Testing dashboard page has started 
+2022-01-11 13:18:45,402 INFO  [Log] Test called: Testing the authentication has started 
+2022-01-11 13:18:48,322 INFO  [Log] INFO: Navigating to https://lms.juaracoding.com/automationpractice/ 
+2022-01-11 13:18:55,085 INFO  [Log] Test called: Testing dashboard page has started 
+2022-01-14 09:49:24,418 INFO  [Log] Test called: Testing the authentication has started 
+2022-01-14 09:49:31,160 INFO  [Log] INFO: Navigating to https://lms.juaracoding.com/automationpractice/ 
+2022-01-14 09:49:35,953 INFO  [Log] Test called: Testing dashboard page has started 
+2022-01-14 09:51:05,741 INFO  [Log] Test called: Testing the authentication has started 
+2022-01-14 09:51:12,509 INFO  [Log] INFO: Navigating to https://lms.juaracoding.com/automationpractice/ 
+2022-01-14 09:51:20,030 INFO  [Log] Test called: Testing dashboard page has started 
+2022-01-15 18:38:10,272 INFO  [Log] Test called: Testing Login has started 
+2022-01-15 18:38:12,924 INFO  [Log] INFO: Navigating to https://lms.juaracoding.com/automationpractice/ 
+2022-01-15 18:39:09,251 INFO  [Log] Test called: Testing Login has started 
+2022-01-15 18:39:12,776 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-15 18:40:05,744 INFO  [Log] Test called: Testing Login has started 
+2022-01-15 18:40:09,249 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 01:33:22,661 INFO  [Log] Test called: Testing Login has started 
+2022-01-16 01:33:25,547 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 01:33:31,816 INFO  [Log] Test called: Testing Report has started 
+2022-01-16 02:17:58,158 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 02:18:06,324 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 02:18:10,887 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 02:18:11,741 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 02:18:22,456 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 03:00:50,786 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 03:00:58,976 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 03:01:08,942 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 03:02:49,814 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 03:02:50,098 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 03:02:54,920 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 18:16:47,642 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 18:16:50,513 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 18:16:59,542 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 18:18:36,009 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 18:18:36,174 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 18:18:38,379 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 18:18:59,528 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 18:27:13,094 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 18:27:16,702 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 18:27:25,198 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 18:29:01,904 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 18:29:02,123 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 18:29:04,687 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 18:29:21,634 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 18:56:24,599 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 18:56:29,473 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 18:56:38,735 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 18:58:17,551 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 18:58:17,885 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 18:58:21,083 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 18:58:53,082 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 20:59:08,132 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 20:59:12,628 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 20:59:21,781 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 20:59:39,578 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 20:59:40,728 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 20:59:51,187 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 21:00:23,848 INFO  [Log] Test called: Testing Master Admin has started 
+2022-01-16 21:00:35,204 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 21:02:45,889 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 21:02:52,439 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 21:02:55,483 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 21:02:56,403 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 21:02:56,744 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 21:02:58,997 INFO  [Log] Test called: Testing Master Admin has started 
+2022-01-16 21:02:59,241 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 21:03:36,654 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 21:03:40,120 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 21:03:49,120 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 21:05:28,250 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 21:05:28,709 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 21:05:31,446 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 21:06:05,711 INFO  [Log] Test called: Testing Master Admin has started 
+2022-01-16 21:07:13,971 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 21:49:50,131 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 21:49:54,470 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 21:50:05,614 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 21:51:45,736 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 21:51:46,191 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 21:51:49,157 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 21:52:04,674 INFO  [Log] Test called: Testing Master Admin has started 
+2022-01-16 21:53:11,823 INFO  [Log] Test called: Testing Validation Admin has started 
+2022-01-16 21:53:12,107 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 22:00:31,505 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 22:00:34,204 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 22:00:43,733 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 22:02:23,508 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 22:02:23,928 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 22:02:27,038 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 22:02:42,724 INFO  [Log] Test called: Testing Master Admin has started 
+2022-01-16 22:03:50,131 INFO  [Log] Test called: Testing Validation Admin has started 
+2022-01-16 22:04:09,411 INFO  [Log] Test called: Testing Report Admin has started 
+2022-01-16 22:27:42,386 INFO  [Log] Test called: Testing Login Amex has started 
+2022-01-16 22:27:44,336 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 22:27:53,067 INFO  [Log] Test called: Testing Worklist Amex has started 
+2022-01-16 22:29:27,564 INFO  [Log] Test called: Testing Login Admin has started 
+2022-01-16 22:29:27,737 INFO  [Log] INFO: Navigating to https://dev.ptdika.com/amex/login 
+2022-01-16 22:29:30,028 INFO  [Log] Test called: Testing Dashboard Admin has started 
+2022-01-16 22:30:02,635 INFO  [Log] Test called: Testing Master Admin has started 
+2022-01-16 22:31:04,078 INFO  [Log] Test called: Testing Validation Admin has started 
+2022-01-16 22:31:22,520 INFO  [Log] Test called: Testing Report Admin has started 
